@@ -1,5 +1,5 @@
 # SmsSpamCollections
-LinkedIn Video: https://www.linkedin.com/feed/update/urn:li:activity:7203799496210685952/
+LinkedIn Demo Video: https://www.linkedin.com/feed/update/urn:li:activity:7203799496210685952/
 ![Screenshot (327)](https://github.com/Lavan1999/Project-11_Spam-Or_Ham_Detection/assets/152668558/94fcd50a-428d-42cf-8f54-104b6a5aa212)
 
 ## Data Loading and Exploration:
